@@ -330,6 +330,7 @@ ol {
 
 .site-logo {
 	float: left;
+	margin-top: -14px;
 }
 
 .user-panel {
